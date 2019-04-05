@@ -1,4 +1,12 @@
 [package]
-name = "never"
+name = "never-type"
 version = "0.1.0"
-authors = ["CodeChain Team <codechain@kodebox.io>"]
+authors = ["Seulgi Kim <seulgi.kim@kodebox.io>"]
+edition = "2018"
+license = "MIT"
+readme = "README.md"
+repository = "http://github.com/CodeChain-io/rust-never-type"
+keywords = ["never", "type", "empty"]
+description = "This library is an alternative implementation of never type for stable rust."
+
+[dependencies]

@@ -1,4 +1,4 @@
-# rust-never [![Build Status](https://travis-ci.org/CodeChain-io/rust-never.svg?branch=master)](https://travis-ci.org/CodeChain-io/rust-never) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# never type [![Build Status](https://travis-ci.com/CodeChain-io/rust-never-type.svg?branch=master)](https://travis-ci.com/CodeChain-io/rust-never-type) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Rust has a type called [never](https://doc.rust-lang.org/std/primitive.never.html)(`!`).
 It's used to represent the type that is never initiated.
 
